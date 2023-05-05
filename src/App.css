@@ -7,8 +7,8 @@
   background-color: rgb(155, 212, 193);
   
 }
-Button{
- margin: 3%;
+.App > Button{
+ margin: 20px;
 }
 .counter{
   font-family: 'Lobster', cursive;
@@ -21,6 +21,7 @@ Button{
   width: 100%;
   height: 100%;
   background-size: 100%;
+  font-size: 80px;
   /* background-image: url("https://media.tenor.com/pf460o0haPIAAAAC/math-numbers.gif"); */
   padding: 80px;
-}
+} 
